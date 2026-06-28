@@ -1,0 +1,11 @@
+{
+  "name": "com.mm.newinputsystem",
+  "displayName": "MM Input System",
+  "version": "1.0.0",
+  "description": "Permet la creation d'inputs plus abstraits.",
+  "unity": "2022.3",
+  "keywords": [
+    "input"
+  ],
+  "author": "Mauricio Movilla"
+}
